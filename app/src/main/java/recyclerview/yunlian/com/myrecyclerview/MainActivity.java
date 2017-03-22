@@ -25,6 +25,9 @@ import recyclerview.yunlian.com.myrecyclerview.view.SwipeItemLayout;
 
 import static recyclerview.yunlian.com.myrecyclerview.util.ImageUitl.getGlidLoadPic;
 
+/**
+ * Created by Stran on 2017/2/24.
+ */
 public class MainActivity
         extends AppCompatActivity
 

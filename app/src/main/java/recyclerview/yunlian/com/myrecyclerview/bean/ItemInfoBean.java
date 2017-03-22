@@ -2,14 +2,9 @@ package recyclerview.yunlian.com.myrecyclerview.bean;
 
 import java.util.List;
 
+
 /**
- * 创建者     伍碧林
- * 创建时间   2016/7/8 14:13
- * 描述	      ${TODO}
- *
- * 更新者     $Author: admin $
- * 更新时间   $Date: 2016-07-12 14:49:37 +0800 (星期二, 12 七月 2016) $
- * 更新描述   ${TODO}
+ * Created by Stran on 2017/2/24.
  */
 public class ItemInfoBean {
     public long   id;
